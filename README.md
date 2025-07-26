@@ -99,6 +99,6 @@ Este proyecto está licenciado bajo los términos de la licencia MIT. Consulta e
 
 ## 👤 Autor
 
-**Planitarea** fue desarrollado por [Juan David Ardila Pacheco](https://github.com/TuUsuario) como un proyecto para mejorar la productividad personal y la gestión del tiempo.
+**Planitarea** fue desarrollado por [Juan David Ardila Pacheco](https://github.com/Juardilap) como un proyecto para mejorar la productividad personal y la gestión del tiempo.
 
 ---
