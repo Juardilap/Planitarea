@@ -25,19 +25,27 @@
 ## 📁 Estructura del proyecto
 
 ```
-.
-├── data
-│   └── tasks.json
-└── src
-    └── main
-        └── java
-            └── com
-                └── ejemplo
-                    ├── Main.java
-                    ├── Task.java
-                    ├── TaskManager.java
-                    ├── TimeManager.java
-                    └── PomodoroTimer.java
+Planitarea/
+├── data/
+│ ├── horarios.json
+│ └── tareas.json
+├── src/
+│ ├── examples/
+│ │ ├── EjemploCalendarSet.java
+│ │ └── EjemploSplit.java
+│ └── main/
+│ └── java/
+│ ├── Horario.java
+│ ├── Horario_Diario.java
+│ ├── Horario_Semanal.java
+│ ├── Main.java
+│ ├── Planitarea.java
+│ ├── Tarea.java
+│ └── Tiempo_Tarea.java
+├── resources/
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ---
@@ -91,6 +99,6 @@ Este proyecto está licenciado bajo los términos de la licencia MIT. Consulta e
 
 ## 👤 Autor
 
-**Planitarea** fue desarrollado por [Tu Nombre](https://github.com/TuUsuario) como un proyecto para mejorar la productividad personal y la gestión del tiempo.
+**Planitarea** fue desarrollado por [Juan David Ardila Pacheco](https://github.com/TuUsuario) como un proyecto para mejorar la productividad personal y la gestión del tiempo.
 
 ---
