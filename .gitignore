@@ -1,0 +1,14 @@
+# Compilados
+*.class
+
+# Archivos del IDE
+.idea/
+*.iml
+*.iws
+
+# Otros archivos temporales
+.DS_Store
+out/
+target/
+bin/
+*.log
