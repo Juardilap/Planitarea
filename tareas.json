@@ -1,0 +1,66 @@
+{
+	"Tarea1":{
+		"nombre":"a",
+		"descripcion":"dasd",
+		"finalidad":"programación",
+		"vencimiento":"25/11/2023",
+		"completa":true,
+		"Eisenhower":2
+	},
+	"Tarea2":{
+		"nombre":"ab",
+		"descripcion":"No sé",
+		"finalidad":"",
+		"vencimiento":"24/12/2023",
+		"completa":true,
+		"Eisenhower":3
+	},
+	"Tarea3":{
+		"nombre":"Programación",
+		"descripcion":"Hacer proyecto",
+		"finalidad":"Programación",
+		"vencimiento":"03/12/2023",
+		"completa":false,
+		"Eisenhower":1
+	},
+	"Tarea4":{
+		"nombre":"A",
+		"descripcion":"bleh",
+		"finalidad":"help",
+		"vencimiento":"12/12/2023",
+		"completa":false,
+		"Eisenhower":4
+	},
+	"Tarea5":{
+		"nombre":"Planitarea",
+		"descripcion":"Terminar todo Planitarea y arreglar la interfaz y aaaaaaaaaaaaaaaaaaaaaa",
+		"finalidad":"Programación",
+		"vencimiento":"26/11/2023",
+		"completa":false,
+		"Eisenhower":2
+	},
+	"Tarea6":{
+		"nombre":"Relleno",
+		"descripcion":"Necesito probar cómo funciona con varias tareas",
+		"finalidad":"Programación",
+		"vencimiento":"20/11/2023",
+		"completa":false,
+		"Eisenhower":3
+	},
+	"Tarea7":{
+		"nombre":"h",
+		"descripcion":"h",
+		"finalidad":"h",
+		"vencimiento":"15/10/2222",
+		"completa":false,
+		"Eisenhower":1
+	},
+	"Tarea6":{
+		"nombre":"qwqe",
+		"descripcion":"awda",
+		"finalidad":"wadaw",
+		"vencimiento":"10/12/2023",
+		"completa":false,
+		"Eisenhower":4
+	}
+}
